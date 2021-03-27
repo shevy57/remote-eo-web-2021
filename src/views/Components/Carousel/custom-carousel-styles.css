@@ -1,0 +1,19 @@
+.carousel .slide {
+    min-width: 100%;
+    margin: 0;
+    position: relative;
+    /* text-align: center; */
+    background: transparent; 
+    margin-left: 2px;
+}
+
+.carousel .slider.animated {
+    transition: all 5s ease-in-out;
+}
+
+.carousel .control-dots {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin-top: 25px;
+}

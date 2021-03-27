@@ -1,0 +1,30 @@
+{
+  "name": "eOcean Data Main Site",
+  "homepage": "https://www.eoceandata.com",
+  "authors": [
+    "eocean-data"
+  ],
+  "description": "eOcean Data Main site",
+  "main": "dist/index.js",
+  "keywords": [
+    "eocaen"
+    ,"eocean data",
+    "BI",
+    "business intelligence",
+    "reactjs",
+    "react",
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}

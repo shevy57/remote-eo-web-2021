@@ -1,0 +1,25 @@
+9/18/19
+!remove creative tim refs
+build new design (open pptx and astart there)
+publish built version
+add new card for 'introducing: BI Dashboard...'
+!change 'how we do it ' to 'how can we help you?'
+add new card on opener with our product
+add carousel?
+!add who we are page with link from menu
+
+finish adding bitoolimage in new productsectionBI
+
+
+
+GET TO NEW TEMPLATE SO NO MORE BLOCKERS
+-get full template, run build, publish to heroku free to ensure size not issue
+-convert existing web to new template   
+    -add landing page   
+    -add contact page
+!-add carousel
+-add other
+
+ADDING carousel
+-add more content using strings and templates so dont have to hand build each slide for all sizes.
+-fix scrolling on touch or lock it and add indicators.
